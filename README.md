@@ -37,20 +37,4 @@ After applying 10 epochs of fine-tuning transfer learning on recent weather data
 
 ---
 
-## 📂 Project Repository Structure
-```text
-MultiCity-Weather-Forecast-LSTM/
-│
-├── data/
-│   ├── pakistan_weather_2000_2024.csv
-│   └── pakistan_weather_data-Sep2024-Oct2025.csv
-│
-├── saved_models/
-│   ├── multi_city_weather_lstm.pth
-│   ├── multi_city_weather_lstm_finetuned.pth
-│   ├── scaler_X_multicity.pkl
-│   ├── scaler_y_multicity.pkl
-│   └── city_to_id_mapping.pkl
-│
-├── requirements.txt
-└── README.md
+
